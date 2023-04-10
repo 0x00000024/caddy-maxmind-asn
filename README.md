@@ -5,7 +5,7 @@ Caddy v2 module to filter requests based on ASN.
 
 You can build Caddy by yourself by [installing xcaddy](https://github.com/caddyserver/xcaddy) and running:
 ```
-xcaddy build --with github.com/lum8rjack/caddy-maxmind-asn
+xcaddy build --with github.com/0x00000024/caddy-maxmind-asn
 ```
 
 ## Requirements 
